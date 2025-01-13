@@ -5,7 +5,7 @@ import Property from '@/models/Property';
 import { FaArrowLeft } from 'react-icons/fa'
 import PropertyDetails from '@/components/PropertyDetails';
 import PropertyImages from '@/components/PropertiesImages';
-import { convertToSerializableObject } from '@/utils/converttoObject';
+import { convertToSerializableObject } from '@/utils/convertToObject';
 
 const PropertyPage = async ({ params }) => {
     await connectDB();
