@@ -9,7 +9,7 @@ import 'photoswipe/dist/photoswipe.css';
 
 
 export const metadata = {
-    title: 'Property Air',
+    title: 'Blue Sky',
     keywords: 'rental, property, real estate',
     description: 'Find the perfect rental property'
 }

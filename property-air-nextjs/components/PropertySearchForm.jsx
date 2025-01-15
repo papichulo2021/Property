@@ -1,6 +1,7 @@
 'use client';
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import e1 from '@/assets/images/rent/e1.jpg';
 
 
 const PropertySearchForm = () => {
